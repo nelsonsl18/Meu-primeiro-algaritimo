@@ -1,4 +1,3 @@
-Redmi.md
 Atividade proposta para desenvolver a habilidade de escrita de algoritmos
 
 Escreva um algoritmo que calcule a média das notas de um aluno em quatro avaliações.
